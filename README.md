@@ -1,6 +1,6 @@
 # Checklist
 
-It's my home project for my current work. This application serves to help you check information systems in your enterprise and as result you get a report with results.
+It's my home project, this application serves to help you check information systems in your enterprise and as result you get a report with results.
 
 This application consists of a list where each position is some kind of information system that you need to check and set the result to "OK" or "NOK". If the result is "NOK" you can add a description of the fault.
 Based on the results of the check, you receive a report with all the results, as well as a generated letter that can be sent to someone by mail.
