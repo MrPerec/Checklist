@@ -7,11 +7,11 @@ Based on the results of the check, you receive a report with all the results, as
 The application has an ".hta" extension and can only run on IE11 and below. This is because it uses an ActiveX library that can interact with your operating system and open and save files on your computer.
 This application can search for files in the file system, execute SQL database queries, search for information from other sites using ajax requests, run programs from your computer, open sites, generate excel files and emails.
 
-The application uses the jQuery library and is built with gulp.
-To start working with the application, run the command:
-
 <p align="center">
 <img src="https://media.giphy.com/media/rHR0Zt52FxgfTShrD4/giphy.gif" width="80%"></p>
+
+The application uses the jQuery library and is built with gulp.
+To start working with the application, run the command:
 
 <code>npm i</code>
 
