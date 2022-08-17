@@ -10,6 +10,9 @@ This application can search for files in the file system, execute SQL database q
 The application uses the jQuery library and is built with gulp.
 To start working with the application, run the command:
 
+<p align="center">
+<img src="https://media.giphy.com/media/rHR0Zt52FxgfTShrD4/giphy.gif" width="80%"></p>
+
 <code>npm i</code>
 
 To build the project, run the command:
